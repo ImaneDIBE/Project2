@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#003366"  # Bleu foncé pour le menu et les boutons
+backgroundColor = "#ADD8E6"  # Bleu clair pour l'arrière-plan de la page
+secondaryBackgroundColor = "#003366"  # Bleu foncé pour la barre latérale
+textColor = "white"  # Texte blanc
+font = "sans serif"  # Optionnel: personnalisation de la police
